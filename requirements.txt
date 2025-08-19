@@ -1,0 +1,6 @@
+tensorflow
+googletrans==4.0.0-rc1
+requests
+matplotlib
+numpy
+Pillow
